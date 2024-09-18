@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Rohit Rajak's Portfolio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Welcome to my personal portfolio, where I showcase my skills, projects, and experience as a developer. Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, this portfolio highlights my passion for coding and design.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Fully Responsive**: Optimized for mobile and laptop screen.
+- **Interactive Animations**: Eye-catching animations on the skills section.
+- **Project Highlights**: A curated selection of my recent work.
 
-## Learn More
+## 🛠️ Technologies
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js**: Powerful React framework with server-side rendering.
+- **TypeScript**: Ensures code reliability with type safety.
+- **Tailwind CSS**: Fast and flexible utility-first CSS framework.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💻 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To run this portfolio on your local machine:
 
-## Deploy on Vercel
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/RoRajak/portfolio.git
+   ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📂 Sections
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **About Me**: Get to know more about my journey as a developer.
+- **Skills**: Showcasing my expertise in various tools and technologies.
+- **Projects**: Featured work demonstrating my technical capabilities.
+- **Contact**: Reach out for collaboration or inquiries.
+
+## 📞 Contact
+
+I'm always excited to connect! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rohit-rajak-44163514b) or drop me an email at rohit1999rajak@gmail.com.
