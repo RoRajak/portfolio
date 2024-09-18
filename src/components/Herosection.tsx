@@ -144,6 +144,7 @@ const Herosection = () => {
         <div className="flex justify-center sm:justify-start sm:pl-4">
           <a 
           href="https://drive.google.com/file/d/1Ge5JQAn6B5Lq3P9CiYFqmexeYenn0P5p/view?usp=drive_link"
+          target="_blank"
           className="border-2 border-red-700 px-5 py-3 rounded-full text-white hover:bg-red-600 text-center transition duration-300 ease-in-out hover:scale-110 min-w-max">
             Download Resume
           </a>
